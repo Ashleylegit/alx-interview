@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""An app that solves the N queens problem"""
+"""An app that solves the N queens problem."""
 
 
 import sys
